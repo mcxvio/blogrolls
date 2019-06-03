@@ -1,0 +1,15 @@
+http://blog.crisp.se/feed
+http://pbpython.com/feeds/all.atom.xml
+https://blog.deming.org/feed/
+http://planetpython.org/rss20.xml
+http://feeds.feedburner.com/AyendeRahien
+http://feeds.hanselman.com/ScottHanselman
+http://www.codeproject.com/WebServices/ArticleRSS.aspx
+https://medium.mybridge.co/feed
+https://weblogs.asp.net/scottgu/rss?containerid=13
+https://kenschwaber.wordpress.com/?feed=rss
+https://feeds.feedburner.com/codinghorror
+https://www.dataquest.io/blog/feed.xml
+https://martinfowler.com/feed.atom
+https://medium.com/feed/@aunyks
+http://stratechery.com/feed/
